@@ -131,3 +131,6 @@ dmypy.json
 # misc
 /models/
 /datasets/
+
+.idea
+.gitignore
